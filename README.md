@@ -3,7 +3,7 @@
 This app uses Firebase for storage, authentication, and database. The app also utilizes external libraries such as Glide for image loading and Android Image Cropper for image cropping.
 
 Installation
-1. Clone this repository to your local machine using https://github.com/GDSC-KOU-Tech-Team/SCapp-complete
+1. Clone this repository to your local machine.
 2. Open the project in Android Studio.
 3. Create a new Firebase project and add your Android app to the project. Download the google-services.json file and add it to the app directory in the project.
 4. In the Firebase Console, enable Email/Password authentication and Cloud Firestore.
