@@ -1,5 +1,4 @@
 # GDSC-KOU-Solution-Challange-App
-EventShare App
 
 This app uses Firebase for storage, authentication, and database. The app also utilizes external libraries such as Glide for image loading and Android Image Cropper for image cropping.
 
